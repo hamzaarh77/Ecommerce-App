@@ -36,6 +36,6 @@ Bienvenue dans l'application e-commerce pour restaurant. Cette application perme
 1. Clonez le dépôt sur votre machine locale.
 
    ```bash
-   git clone https://github.com/votre-utilisateur/restaurant-ecommerce.git
+   git clone https://github.com/hamzaarh77/Ecommerce-App.git
 
 
