@@ -25,6 +25,12 @@ Bienvenue dans l'application e-commerce pour restaurant. Cette application perme
 
 2. **Filtrer par Date :** Les administrateurs peuvent filtrer les commandes par date pour obtenir un aperçu spécifique.
 
+### fonctionalité a aporté prochainement sur ce projet 
+
+1. possibilité que l'admins puissent changer le menu (rajouter, supprimer, modifier un article)
+2. trouver un moyen pour afficher les nouvelles commandes en temps réel
+3. Amelioration de l'UI/UX  
+
 ## Installation
 
 1. Clonez le dépôt sur votre machine locale.
